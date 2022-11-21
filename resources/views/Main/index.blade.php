@@ -151,7 +151,6 @@
                     <div class="card-body text-center p-4">
                         <div class="avatar-xl mx-auto mb-4 position-relative">
                             <img src="{{url('')}}/public/img/fish/tt.jpg" alt="" class="img-fluid rounded-circle">
-
                         </div>
                         <!-- end card body -->
                         <h5 class="mb-1"><a href="pages-profile.html" class="text-body">ปลาทับทิม</a></h5>

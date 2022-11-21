@@ -102,7 +102,7 @@
             $("#count_ship").text(parseInt(ship)-1)
             $("#"+id_product).removeClass('buy')
         }
-        send_data(data_id,"{{Auth::user()->id}}",product_count);
+        send_data(data_id,"{{@Auth::user()->id}}",product_count);
 
         all_list()
         // alert(product_count)
